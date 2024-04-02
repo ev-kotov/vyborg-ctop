@@ -1,18 +1,21 @@
 # TableTopVyborg
-Trapezoidal table top with ergonomic cutout.
+Столешница трапециевидной формы с эргономичным вырезом.
 
-3D models and drawings can be found in the `Docs` folder.
+Трёхмерные модели и чертежи находятся в папке проекта `Документы`.
 
-## Docs
-![](/Images/SK.VYBORG.5500.jpg)
+## Документы
+![](/Изображения/SK.VYBORG.5500.jpg)
 
-## Images
-![](/Images/1.jpg)
+<img src="Изображения/1.jpg" alt="" width="1451"/>
 
-![](/Images/3.jpg)
+<details>
+<summary>Дополнительные изображения</summary>
 
-![](/Images/4.jpg)
+<img src="Изображения/3.jpg" alt="" width="1361"/>
+<img src="Изображения/5.jpg" alt="" width="752"/>
+<img src="Изображения/4.jpg" alt="" width="825"/>
+<img src="Изображения/6.jpg" alt="" width="752"/>
+<img src="Изображения/7.jpg" alt="" width="752"/>
+</details>
 
-![](/Images/2.jpg)
-
-Designed specifically for [StandCat](https://github.com/ev-kotov/StandCat)
+Разработано специально для [StandCat](https://gitverse.ru/ekotov/StandCat)
