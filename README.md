@@ -1,31 +1,21 @@
-# TableTopVyborg
-Столешница трапециевидной формы с эргономичным вырезом
+# vyborg-ctop
 
-## Детали
-- эргономический вырез, исключающий провисание локтей, как следствие обеспечивается благоприятное и 
-анатомически правильное положение рук пользователя
-- фронтальная сторона столешницы имеет трапециевидную форму умеренного наклона, 
-обеспечивая тем самым баланс между полезной площадью поверхности стола и возможностью одновременного 
-взаимодействия за одной ЭВМ двух - трех пользователей
-- для комфорта и безопасности острые углы скруглены
-- имеются три выреза для прохода кабельных трас под установку "стандартных" кабельных каналов
+A trapezoidal worktop with an ergonomic cutout
 
-## Документы
-![](/Images/SK.VYBORG.5510.jpg)
-![](/Images/SK.VYBORG.5500.jpg)
+## Features
+- an ergonomic cutout that prevents elbows from sagging, thereby ensuring a comfortable and anatomically correct hand position for the user
+- the front side of the worktop has a trapezoidal shape with a moderate angle, thus providing a balance between the useful surface area of the desk and the ability for two to three users to interact simultaneously at one workstation
+- for comfort and safety, sharp corners are rounded.
+- there are three cutouts for cable routing to install "standard" cable channels
+- it is difficult to find a soft mat
 
-## Изображения
-![](/Images/3.jpg)
-![](/Images/4.jpg)
-![](/Images/5.jpg)
-![](/Images/6.jpg)
-![](/Images/7.jpg)
+## Drawings
+![](/image/SK.VYBORG.5510.jpg)
+![](/image/SK.VYBORG.5500.jpg)
 
-## Особенности
-- сложно подобрать мягкий коврик
-
----
-
-Трёхмерные модели и чертежи находятся в папке проекта `Docs`.
-
-Разработано специально для [StandCat](https://gitverse.ru/ekotov/StandCat).
+## Images
+![](/image/3.jpg)
+![](/image/4.jpg)
+![](/image/5.jpg)
+![](/image/6.jpg)
+![](/image/7.jpg)
